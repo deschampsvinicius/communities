@@ -1,0 +1,25 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "deschampsvinicius"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Floripa",
+      "Country": "Brazil",
+      "Url": "https://www.azurefloripa.com.br",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+        "File": "azurefloripa.png"
+      },
+      "Locations": [
+        {
+          "Name": "Florianópolis",
+          "Latitude": -27.594870,
+          "Longitude": -48.548222
+        }
+      ]
+    }
+  }
